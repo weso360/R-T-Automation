@@ -1,5 +1,5 @@
 # Web Scraper
-
+*For Educational Purposes Only*
 ## Overview
 
 This Python script scrapes food and drink listings from and extracts their website links.
